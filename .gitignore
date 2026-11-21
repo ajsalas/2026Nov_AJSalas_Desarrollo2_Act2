@@ -1,0 +1,36 @@
+# Unity .gitignore
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Aa]ssets/AssetStoreTools*
+
+# Visual Studio / Rider / VS Code cache & solutions
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.sln.docstates
+*.tmp
+*.flag
+*.log
+*.slnx
+*.zip
+.vsconfig
+
+# OS generated
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Video Recordings
+Recordings/
